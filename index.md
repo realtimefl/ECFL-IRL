@@ -68,7 +68,7 @@ Robert J Weaver, PhD
 This project is operated and maintained by [FL-ASGS](https://github.com/FL-ASGS/ECFL-IRL), contact us
 [email](mailto:fl-asgs@fit.edu)
 
-<img align="left" src="/ECFL-IRL/logo/FIT_logo.jpg" height="151">
+<img align="left" src="/ECFL-IRL/logo/FIT_logo.jpg" height="150">
 <img align="left" src="/ECFL-IRL/logo/IRLIR_Logo.jpg" height="150" >
 
 .
